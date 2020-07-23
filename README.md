@@ -1,2 +1,2 @@
-# ridsuteri.github.io
+# https://ridsuteri.github.io
 My first personal site
