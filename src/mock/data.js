@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: 'I’m a Web Developer by day, blogger by evening, a functional wantrepreneur by midnight and a hustler always.',
   paragraphThree: 'You can find me watching cricket 🏏, brewing coffee ☕  or writing blogs 📝 ',
   paragraphFour:'I do stocks 📈',
-  resume: 'https://drive.google.com/file/d/1YgOLSRWgIGh187Gw0FuLwfvznJxeKSP5/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1PVYEiYsczYLQ_Z2XNEQZ8FL38ZrE2HM0/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
