@@ -69,7 +69,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/rid_suteri',
+      url: 'https://twitter.com/ridsuteri',
     },
     {
       id: nanoid(),
