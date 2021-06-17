@@ -3,7 +3,7 @@ name: Gatsby Portfolio Publish
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
